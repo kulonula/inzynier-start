@@ -1,0 +1,13 @@
+.sign-up-form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: #afdbd2;
+}
+
+.sign-up-form ::placeholder{
+    font-weight: lighter;
+    font-family: "AR ESSENCE";
+}
+
